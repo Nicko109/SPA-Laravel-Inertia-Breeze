@@ -25,7 +25,7 @@ import MainLayout from "@/Layouts/MainLayout.vue";
 
 
 export default {
-    name: "Index",
+    name: "Create",
 
     layout: MainLayout,
 

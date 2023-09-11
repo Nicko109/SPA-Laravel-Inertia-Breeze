@@ -20,7 +20,7 @@ import MainLayout from "@/Layouts/MainLayout.vue";
 
 
 export default {
-    name: "Index",
+    name: "Show",
 
     layout: MainLayout,
 
